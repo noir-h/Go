@@ -1,9 +1,8 @@
 package main
 
 import (
-	"app/how_to_import"
+	"app/valiable"
 	"fmt"
-	"os/user"
 )
 
 /*
@@ -17,8 +16,8 @@ func fizz(){
 }
 func main() {
 	// fizz()
-	how_to_import.Test()
-	fmt.Println(user.Current())
+	// how_to_import.Test()
+	valiable.Valiable()
 	// fmt.Println("Hello golang from docker!")
 }
 
