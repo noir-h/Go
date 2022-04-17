@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/valiable"
+	"app/boolean_type"
 	"fmt"
 )
 
@@ -17,7 +17,11 @@ func fizz(){
 func main() {
 	// fizz()
 	// how_to_import.Test()
-	valiable.Valiable()
+	// x_const.Const()
+	// valiable.Valiable()
+	// int_type.Test()
+	// string_type.Test()
+	boolean_type.Test()
 	// fmt.Println("Hello golang from docker!")
 }
 
