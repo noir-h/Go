@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/boolean_type"
+	"app/cast_of_type"
 	"fmt"
 )
 
@@ -21,7 +21,8 @@ func main() {
 	// valiable.Valiable()
 	// int_type.Test()
 	// string_type.Test()
-	boolean_type.Test()
+	// boolean_type.Test()
+	cast_of_type.Test()
 	// fmt.Println("Hello golang from docker!")
 }
 
