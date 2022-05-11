@@ -1,11 +1,11 @@
-package cast_of_type
+package definition
 
 import (
 	"fmt"
 	"strconv"
 )
 
-func Test(){
+func Cast_of_type(){
 	var x int = 1
 	xx := float64(x)
 	fmt.Printf("%T %v %f\n", xx, xx, xx)

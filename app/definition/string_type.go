@@ -1,11 +1,11 @@
-package string_type
+package definition
 
 import (
 	"fmt"
 	"strings"
 )
 
-func Test(){
+func String_type(){
 	fmt.Println("Hello World")
 	fmt.Println("Hello " + "World")
 	fmt.Println(string("Hello World"[0]))

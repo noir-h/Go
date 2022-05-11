@@ -1,4 +1,4 @@
-package x_const
+package definition
 
 import "fmt"
 

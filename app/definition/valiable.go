@@ -1,4 +1,4 @@
-package valiable
+package definition
 
 import "fmt"
 

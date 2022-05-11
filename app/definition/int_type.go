@@ -1,8 +1,8 @@
-package int_type
+package definition
 
 import "fmt"
 
-func Test() {
+func Int_type() {
 	/*
 		var(
 			u8 uint8 = 255

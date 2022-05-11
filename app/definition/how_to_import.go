@@ -1,4 +1,4 @@
-package how_to_import
+package definition
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func Test(){
+func How_to_import(){
 	fmt.Println("Hello", time.Now())
 	fmt.Println(user.Current())
 }
