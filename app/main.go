@@ -27,9 +27,29 @@ func main() {
 	// definition.Array()
 	// definition.Slice()
 	// definition.Make_cap()
-	definition.Map()
+	// definition.Map()
+	// definition.Byte()
 
-	// fmt.Println("Hello golang from docker!")
+	/*
+	definition.Add(3, 5)
+	r := definition.Addx(3, 5)
+	fmt.Println(r)
+	r1, r2 := definition.Addy(3, 5)
+	fmt.Println(r1, r2)
+	r3 := definition.Cal(5, 6)
+	fmt.Println(r3)
+	// 無名
+	f := func(x int) {
+		fmt.Println("inner func", x)
+	}
+	f(1)
+	// 即時
+	func(x int) {
+		fmt.Println("inner func", x)
+	}(2)
+	*/
+	
+	definition.Closure()
 }
 
 // how to read doc
