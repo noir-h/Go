@@ -1,0 +1,3 @@
+2022/05/14 08:34:56 /go/src/app/statement/log.go:21: Exit open fdsfdsf: no such file or directory
+2022/05/14 08:42:00 /go/src/app/statement/log.go:21: Exit open fdsfdsf: no such file or directory
+2022/05/15 00:21:06 /go/src/app/statement/log.go:22: Exit open fdsfdsf: no such file or directory

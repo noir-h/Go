@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/definition"
+	structoriented "app/struct_oriented"
 	"fmt"
 )
 
@@ -49,7 +49,24 @@ func main() {
 	}(2)
 	*/
 	
-	definition.Closure()
+	// definition.Closure()
+	// definition.Valiadic_function()
+	// statement.If()
+	// statement.For()
+	// statement.Range()
+	// statement.Switch()
+	// statement.Defer()
+	// statement.Log()
+	// statement.Error()
+	// statement.Panic()
+	// pointer.Pointa()
+	// pointer.New()
+	// pointer.Struct()
+	// structoriented.Receiver()
+	// structoriented.Interface()
+	// structoriented.TypeAssertion()
+	// structoriented.Stringer()
+	structoriented.CustomError()
 }
 
 // how to read doc
