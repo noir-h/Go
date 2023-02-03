@@ -15,6 +15,8 @@ func main() {
 		fmt.Println("hoge2")
 	} else if hoge == "hoge3" {
 		fmt.Println("hoge3")
+	} else if hoge == "hoge4" {
+		fmt.Println("hoge4")
 	}
 	test(1, 2, 3, 4, 5, 6)
 }
