@@ -2,7 +2,7 @@ package definition
 
 import "fmt"
 
-func Boolean_type(){
+func Boolean_type() {
 	// var t, f bool = true, false
 	t, f := true, false
 	fmt.Printf("%T %v %t\n", t, t, 1)
